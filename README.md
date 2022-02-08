@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 
- [![Linkedin Badge](https://img.shields.io/badge/-adesina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0e76a8&logoColor=white)](https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/)
 
 
 
