@@ -29,7 +29,7 @@
 
 ### Blogs
 
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0e76a8&logoColor=white)](https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://blog.adesegunadebayo.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://blog.adesegunadebayo.com/)
 
 
 
