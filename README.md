@@ -8,11 +8,9 @@
 
 📫 How to reach me:
 
-<p align="center">
-<a href="https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+ [![Linkedin Badge](https://img.shields.io/badge/-adesina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/)
+
+
 
 
 Top Technologies
