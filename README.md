@@ -8,9 +8,9 @@
 
 📫 How to reach me:
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<p align="center">
+<a href="https://www.linkedin.com/in/adesegun-adebayo-9b122a7b/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
 
