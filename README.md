@@ -2,7 +2,7 @@
 
 🚀 I'm excited to have you look me up!
 
-🧑🏾‍🦱 I am Adesegun Adebayo Daniel, a Full Stack Engineer and I curently work with Venture Garden Group as a Senior Software Engineer. 
+🧑🏾‍🦱 I am Adesegun Adebayo Daniel, a Software Engineer and I curently work with Venture Garden Group as a Senior Software Engineer. 
 
 😄 He/Him
 
